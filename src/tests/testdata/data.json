@@ -1,0 +1,15 @@
+{
+    "e2e-01": {
+        "addViaItemPage": "Sauce Labs Fleece Jacket",
+        "addRemoveProducts": [
+            {
+                "addProduct": "Test.allTheThings() T-Shirt (Red)",
+                "removeProduct": "Sauce Labs Fleece Jacket"
+            },
+            {
+                "addProduct": "Sauce Labs Bike Light",
+                "removeProduct": "Test.allTheThings() T-Shirt (Red)"
+            }
+        ]
+    }
+}
